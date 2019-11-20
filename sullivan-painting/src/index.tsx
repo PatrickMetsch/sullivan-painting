@@ -25,7 +25,7 @@ const renderApp = (state:any) => {
 }
 
 const initialState = {
-  greetingText: "Hello World!"
+  greetingText: "Balls World!"
 }
 
 renderApp(initialState);
